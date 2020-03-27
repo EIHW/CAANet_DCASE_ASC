@@ -35,9 +35,11 @@ dependencies:
   - runme.sh
 
 Note: 
--The folders "pytorch-pred" and "utils-pred" are corresponding to multi-task conditional training.
--The folders "pytorch-wopred" and "utils-wopred" are corresponding to teacher forcing conditional training.
--Please change the folder names as "pytorch" and "utils-pred" before running the code.
+- The folders "pytorch-pred" and "utils-pred" are corresponding to multi-task conditional training.
+
+- The folders "pytorch-wopred" and "utils-wopred" are corresponding to teacher forcing conditional training.
+
+- Please change the folder names as "pytorch" and "utils-pred" before running the code.
 
 
 # Run 
