@@ -49,6 +49,10 @@ In runme.sh, please run the following files:
 1. feature extracttion: utils/features.py
 2. training a model, and evaluation: main_pytorch.py
 
+# Cite
+If the user referred the code, please cite our paper:
+
+Z. Ren, Q. Kong, J. Han, M. D. Plumbley and B. W. Schuller, "CAA-Net: Conditional Atrous CNNs with Attention for Explainable Device-robust Acoustic Scene Classification," in IEEE Transactions on Multimedia, doi: 10.1109/TMM.2020.3037534.
 
 
 
@@ -60,5 +64,5 @@ Chair of Embedded Intelligence for Health Care and Wellbeing
 
 University of Augsburg
 
-27.03.2020
+18.11.2020
 
